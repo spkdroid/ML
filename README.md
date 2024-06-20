@@ -1,8 +1,22 @@
-# ML
+# **Introduction to Machine Learning**
 
-### **Introduction to Machine Learning**
+<center>
+<img src="https://github.com/spkdroid/ML/blob/master/31.jpg" width=240 height=240/>
+<br>
+<a href="https://www.freepik.com/free-vector/vector-illustration-rooster_1215567.htm#query=rooster&position=6&from_view=keyword&track=sph&uuid=9e9f30a0-3bd2-4cd6-b0f9-380c2b73b94f">Image by vectorpocket</a> on Freepik
+</center>
+<br>
+<br>
+<br>
+
+
+## Table of Contents
+1. [Introduction to Machine Learning](#introduction-to-machine-learning)
+2. [Linear Regression](#understanding-linear-regression)
+3. [Logistic Regression](#understanding-logistic-regression)
 
 Machine learning (ML) is a subset of artificial intelligence (AI) that enables computers to learn from and make predictions or decisions based on data. It involves creating algorithms that can automatically detect patterns and insights in data, improve from experience, and make data-driven decisions without being explicitly programmed to perform specific tasks.
+
 
 #### **Key Concepts in Machine Learning:**
 
